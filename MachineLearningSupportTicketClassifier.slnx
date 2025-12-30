@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="MachineLearningSupportTicketClassifier/MachineLearningSupportTicketClassifier.csproj" />
+  <Folder Name="/Models/" />
+  <Folder Name="/src/">
+    <Project Path="MachineLearningSupportTicketClassifier/MachineLearningSupportTicketClassifier.csproj" />
+  </Folder>
 </Solution>
